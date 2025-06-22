@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058148863122",
+    "project_id": "hackathon-2c3d7",
+    "storage_bucket": "hackathon-2c3d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058148863122:android:e510790fc1c8323b68aa4b",
+        "android_client_info": {
+          "package_name": "com.ecoeatsgroceryapp.ecoeats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTI46B5ScMrPW-P20-1ltYeXKqK9NeskI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
